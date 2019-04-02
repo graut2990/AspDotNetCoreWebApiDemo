@@ -1,0 +1,14 @@
+D:\Gaurav\Project\AspDotNetCoreWebApiDemo\bin\Debug\netcoreapp2.1\AspDotNetCoreWebApiDemo.deps.json
+D:\Gaurav\Project\AspDotNetCoreWebApiDemo\bin\Debug\netcoreapp2.1\AspDotNetCoreWebApiDemo.runtimeconfig.json
+D:\Gaurav\Project\AspDotNetCoreWebApiDemo\bin\Debug\netcoreapp2.1\AspDotNetCoreWebApiDemo.runtimeconfig.dev.json
+D:\Gaurav\Project\AspDotNetCoreWebApiDemo\bin\Debug\netcoreapp2.1\AspDotNetCoreWebApiDemo.dll
+D:\Gaurav\Project\AspDotNetCoreWebApiDemo\bin\Debug\netcoreapp2.1\AspDotNetCoreWebApiDemo.pdb
+D:\Gaurav\Project\AspDotNetCoreWebApiDemo\obj\Debug\netcoreapp2.1\AspDotNetCoreWebApiDemo.csprojAssemblyReference.cache
+D:\Gaurav\Project\AspDotNetCoreWebApiDemo\obj\Debug\netcoreapp2.1\AspDotNetCoreWebApiDemo.csproj.CoreCompileInputs.cache
+D:\Gaurav\Project\AspDotNetCoreWebApiDemo\obj\Debug\netcoreapp2.1\AspDotNetCoreWebApiDemo.RazorAssemblyInfo.cache
+D:\Gaurav\Project\AspDotNetCoreWebApiDemo\obj\Debug\netcoreapp2.1\AspDotNetCoreWebApiDemo.RazorAssemblyInfo.cs
+D:\Gaurav\Project\AspDotNetCoreWebApiDemo\obj\Debug\netcoreapp2.1\AspDotNetCoreWebApiDemo.AssemblyInfoInputs.cache
+D:\Gaurav\Project\AspDotNetCoreWebApiDemo\obj\Debug\netcoreapp2.1\AspDotNetCoreWebApiDemo.AssemblyInfo.cs
+D:\Gaurav\Project\AspDotNetCoreWebApiDemo\obj\Debug\netcoreapp2.1\AspDotNetCoreWebApiDemo.RazorTargetAssemblyInfo.cache
+D:\Gaurav\Project\AspDotNetCoreWebApiDemo\obj\Debug\netcoreapp2.1\AspDotNetCoreWebApiDemo.dll
+D:\Gaurav\Project\AspDotNetCoreWebApiDemo\obj\Debug\netcoreapp2.1\AspDotNetCoreWebApiDemo.pdb
